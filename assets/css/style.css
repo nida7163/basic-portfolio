@@ -108,14 +108,13 @@ h1 {
 }
 
 .sidebar h2 {
-    color: #4aaaa5;
-    border-bottom: 1px solid #dddddd;
-    margin: 0 5px 5px 5px;
-    font-weight: 200;
+	color: #4aaaa5;
+	border-bottom: 2px solid #dddddd;
+	padding: 0px 0 25px 0;	
 }
 
 .headshot {
-    width: 15%;
+    width: 25%;
     height: auto;
     float: left;
  
